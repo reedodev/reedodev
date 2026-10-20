@@ -10,6 +10,7 @@
 
 | 스킬 | 한 줄 소개 |
 |---|---|
+| [**옵시디언 LLM 위키**](https://github.com/reedodev/obsidian-llm-wiki) | AI가 정리하고 이어 주는 나만의 지식 저장고 |
 | [**옵시디언 3D 지식그래프**](https://github.com/reedodev/obsidian-brain-3d) | 내 노트가 엑스레이 뇌와 세계수로 보입니다 |
 | [**노트 먼저 찾아보기**](https://github.com/reedodev/vault-recall) | 같은 실수, 내 노트가 먼저 막아 줍니다 |
 | [**작업 기록 강의자료**](https://github.com/reedodev/work-to-lecture-deck) | AI와 한 작업이 그대로 강의자료가 됩니다 |
