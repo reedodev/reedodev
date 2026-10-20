@@ -8,7 +8,7 @@
 
 | 저장소 | 내용 |
 |---|---|
-| [**reedo-skills**](https://github.com/reedodev/reedo-skills) | 매일 쓰면서 고친 한국어 AI 에이전트 스킬 5개: 말투 점검, 네이버 황금키워드, 한글(HWPX) 양식 채우기, TTS 끝소리 고치기, 작업 기록 강의자료 |
+| [**reedo-skills**](https://github.com/reedodev/reedo-skills) | 매일 쓰면서 고친 한국어 AI 에이전트 스킬 10개: 옵시디언 3D 지식그래프, 노트 먼저 찾아보기, 말투 점검, 네이버 황금키워드, 한글(HWPX) 양식 채우기, TTS 끝소리 고치기, 카드뉴스 렌더, 영상 비율 검사, 유튜브 게시 점검, 작업 기록 강의자료 |
 
 ### 요즘 쓰는 도구
 
