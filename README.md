@@ -12,6 +12,8 @@
 |---|---|
 | [**대본 하나로 만드는 단편**](https://github.com/reedodev/scenario-to-film) | 대본 하나를 비용 승인 후에만 영상으로 만듭니다 |
 | [**설명 영상 만들기**](https://github.com/reedodev/explainer-studio) | 한 줄 주제가 손으로 그린 8가지 스타일의 설명 영상이 됩니다 |
+| [**웹소설 스튜디오**](https://github.com/reedodev/webnovel-studio) | 기획부터 연재까지 웹소설 작업 흐름 |
+| [**다이나믹 자막**](https://github.com/reedodev/dynamic-captions) | 단어 단위 자막을 10개 이상의 스타일로 |
 | [**옵시디언 LLM 위키**](https://github.com/reedodev/obsidian-llm-wiki) | AI가 정리하고 이어 주는 나만의 지식 저장고 |
 | [**옵시디언 3D 지식그래프**](https://github.com/reedodev/obsidian-brain-3d) | 내 노트가 엑스레이 뇌와 세계수로 보입니다 |
 | [**노트 먼저 찾아보기**](https://github.com/reedodev/vault-recall) | 같은 실수, 내 노트가 먼저 막아 줍니다 |
